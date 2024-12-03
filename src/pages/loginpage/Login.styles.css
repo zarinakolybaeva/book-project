@@ -1,0 +1,28 @@
+.Login-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Login-img-container{
+    width:45%;
+    overflow:hidden;
+}
+
+.Login-img-container img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.Login-content-container{
+    width: 50%
+    ;
+}
+.content-wrapper{
+    padding-right: 3rem;
+}
+.content-wrapper h2{
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    
+}
