@@ -1,0 +1,28 @@
+.cart-items-container{
+    padding: 5% 0;
+}
+
+.cart-item{
+    display: flex;
+    padding: 2rem;
+    margin: 2rem 0;
+    border: 1px solid #555;
+    border-radius: 1rem;
+
+}
+
+.cart-item-img{
+    width: 6rem;
+}
+.cart-item-content-container{
+    padding-left: 2rem;
+    padding-top: 10px;
+}
+
+.cart-item-content-container p{
+    padding-top:5px;
+}
+.cart-item-price{
+    padding-top:1.8rem;
+    color: var(--primary-color-bright);
+}
