@@ -1,0 +1,18 @@
+.product-listing-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.listing-container{
+    padding-top: 4rem;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+    gap: 70px;
+}
+
